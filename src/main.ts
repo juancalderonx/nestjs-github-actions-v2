@@ -6,5 +6,5 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap().then(() =>
-  console.log('NestJS with GitHub Actions server is running V4!'),
+  console.log('NestJS with GitHub Actions server is running V5!'),
 );
